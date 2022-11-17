@@ -5,7 +5,7 @@ The purpose of this analysis was to look at the overall volume increase in 2017 
 ## Comparing the stocks performance between 2017 and 2018:
 ![](https://github.com/NoorAlKubati/Challenge-2-/blob/main/Screenshot%20(4).png)
 The stocks in 2017 were better than 2018. Because all the stocks increased except TERP was negative (7.9%). Whereas the return of the stocks in 2018 were negative except ENPH (97.9%) and RUN (85.2%)
-[]()
+![](https://github.com/NoorAlKubati/Challenge-2-/blob/main/Screenshot%20(6).png)
 ##  the advantages or disadvantages of refactoring code:
 The advantages of refactoring are easy to read and understandable. Whereas the disadvantage sometimes needs more time and sometime refactoring make you stand in a situation where you don’t know where to go and how to end. 
 ## pros and cons apply to refactoring the original VBA script:
